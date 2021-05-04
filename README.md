@@ -2,4 +2,3 @@
 * Nama : Gian Chiesa Maghriza
 * NIM : 1313618021
 * Prodi : Ilmu Komputer 2018
-- sa
